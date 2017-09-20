@@ -224,7 +224,8 @@
   - Webサイト
   - PHP
 - name: 高田馬場 (関東)
-  logo: /img/dojos/coderdojo-takadanobaba.jpg
+  logo: /img/dojos/coderdojo-
+  danobaba.jpg
   url: http://coderdojo-tdbb.com/
   description: 東京都新宿区高田馬場で毎月開催
   order: -30
@@ -573,7 +574,7 @@
   - Java
   - JavaScript
 - name: 高槻 (近畿)
-  logo: /img/dojos/coderdojo_japan.png
+  logo:https://www.dropbox.com/s/fx239eae0anwij7/CoderDojo-Takatsuki_logo.png?dl=0
   url: https://www.facebook.com/coderdojotakatsuki/
   description: 大阪府高槻市で不定期に開催
   order: 285
